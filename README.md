@@ -51,3 +51,12 @@ The goal is to identify recurring patterns, classify them consistently, and crea
 ADRF represents independent observations and analysis of AI system design patterns.
 
 The framework is not affiliated with or endorsed by any organization or product vendor.
+
+## Repository Structure
+
+```text
+/
+├── README.md
+├── LICENSE
+└── risks/
+

@@ -6,7 +6,7 @@ Observations are not principles, risk categories, or formal guidance. They repre
 
 ---
 
-## ADRF-O1
+## ADRF-OBS-01
 
 **When transparency is hidden, risk evolves naturally.**
 

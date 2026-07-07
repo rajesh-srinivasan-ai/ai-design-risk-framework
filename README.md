@@ -21,6 +21,13 @@ ADRF is an attempt to provide a common language for identifying, discussing, and
 ADRF focuses on recurring risk patterns rather than product-specific behavior. Products may be referenced as examples, but the framework is concerned with design risks that can emerge across AI systems.
 
 ---
+## ADRF Mission
+
+ADRF seeks to make recurring AI design risks visible.
+
+By creating shared language and understanding around these risks, ADRF aims to help users, providers, and the broader AI ecosystem strengthen feedback loops, improve design decisions, and build more effective AI systems over time.
+
+---
 
 ## ADRF Principles
 

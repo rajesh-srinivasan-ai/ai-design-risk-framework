@@ -16,6 +16,18 @@ Non-Explanatory Metrics expose signals without providing sufficient meaning or c
 
 ---
 
+## Pattern Evidence
+
+The following evidence artifacts contributed to the discovery and refinement of ADRF-01.
+
+- PE-001 – The 78% AI Story
+- PE-002 – The 78% Enterprise AI Story
+- PE-003 – The Day The Answers Ran Out
+- PE-004 – Front Door Risk
+- PE-005 – The Feedback Loop Is Broken
+  
+---
+
 ## Risk Pattern
 
 An AI system exposes a metric to users, but sufficient explanatory context is not provided.
@@ -32,3 +44,5 @@ No Reliable Interpretation
 No Informed Decision
 ↓
 Risk Emerges
+
+

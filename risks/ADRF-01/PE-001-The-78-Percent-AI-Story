@@ -62,16 +62,14 @@ When critical questions cannot be answered from the metric itself, the metric be
 
 ## ADRF Connection
 
-This observation contributed to the discovery of:
-
-**ADRF-01: Non-Explanatory Metrics**
+This observation contributed to the discovery of ADRF-01: Non-Explanatory Metrics.
 
 A Non-Explanatory Metric exposes a signal without sufficient context, meaning, causality, forecasting, or actionable guidance to support informed decision-making.
 
 ## LinkedIn Story
 
-**The 78% AI Story – The Day a Metric Became a Pattern**
+The 78% AI Story – The Day a Metric Became a Pattern
 
 ## Status
 
-Observed 🌱
+Observed

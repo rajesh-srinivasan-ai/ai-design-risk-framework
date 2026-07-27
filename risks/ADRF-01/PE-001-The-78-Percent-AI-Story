@@ -1,0 +1,77 @@
+# Pattern Evidence: PE-001
+
+## Title
+
+The 78% AI Story
+
+## ADRF
+
+ADRF-01: Non-Explanatory Metrics
+
+## Observation
+
+An AI dashboard displayed a simple metric:
+
+```text
+AI Usage
+
+78%
+```
+
+The metric was clearly visible.
+
+Its meaning was not.
+
+The number immediately raised questions:
+
+- Is 78% good or bad?
+- Is usage increasing or decreasing?
+- Is the trend expected?
+- Is action required?
+- What decision should be made next?
+
+The metric exposed a signal but provided no explanation.
+
+## Pattern
+
+```text
+Metric Exposed
+↓
+Questions Emerge
+↓
+Insufficient Context or Meaning
+↓
+Decision Gap Emerges
+↓
+Risk Emerges
+```
+
+## Consequence
+
+The metric became the beginning of a pattern.
+
+The information was visible.
+
+The understanding was not.
+
+## Realization
+
+A metric can successfully communicate a value while simultaneously failing to communicate its significance.
+
+When critical questions cannot be answered from the metric itself, the metric becomes non-explanatory.
+
+## ADRF Connection
+
+This observation contributed to the discovery of:
+
+**ADRF-01: Non-Explanatory Metrics**
+
+A Non-Explanatory Metric exposes a signal without sufficient context, meaning, causality, forecasting, or actionable guidance to support informed decision-making.
+
+## LinkedIn Story
+
+**The 78% AI Story – The Day a Metric Became a Pattern**
+
+## Status
+
+Observed 🌱
